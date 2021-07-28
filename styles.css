@@ -1,7 +1,7 @@
 @media(min-width:468px){
     .container-1{
       display:flex;
-      background-color:red;
+      background-color:yellow;
       /*
       align-items:flex-start;
       align-items:flex-end;
