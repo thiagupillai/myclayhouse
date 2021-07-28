@@ -13,6 +13,7 @@
     
     .container-2{
       display:flex;  
+        background-color:#E7717D;
       /*
       justify-content:flex-start;
       justify-content:flex-end;
